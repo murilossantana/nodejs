@@ -4,3 +4,4 @@ http.createServer(function (req, res) {
   res.end('Hello Node.JS!');
 }).listen(8080);
 console.log('Server running at http://localhost:8080/');
+console.log('E o murilo é viado!');
